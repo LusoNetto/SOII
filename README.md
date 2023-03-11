@@ -4,6 +4,6 @@
 
 ### Livro do Tanenbaum
 
-- http://www.teraits.com/pitagoras/marcio/gpi/b_ATanenbaum_RedesDeComputadores_4aEd.pdf
+- https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf
 
 This is a repository to SOII materials
